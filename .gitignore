@@ -1,0 +1,65 @@
+# LaTeX generated files
+*.aux
+*.log
+*.toc
+*.out
+*.bbl
+*.blg
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.lof
+*.lot
+*.nav
+*.snm
+*.vrb
+*.xdv
+*.bcf
+*.run.xml
+*.thm
+*.idx
+*.ilg
+*.ind
+*.maf
+*.mtc
+*.mtc0
+
+# Python generated files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py.class
+
+# Output directory (where PDFs are generated)
+/output/
+
+# Editor-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Backup files
+*.bak
+*.backup
+
+# Log files
+*.log
+
+# Notion export files (if applicable)
+*.zip
+*.export
+
+# Local LaTeX configuration files
+*.local
